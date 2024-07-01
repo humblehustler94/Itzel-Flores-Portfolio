@@ -51,19 +51,24 @@
         </div>
 
         <form action="contact-form" method="post" id="contact-form">
-            <label class="standard-label" for="contact-email">E-mail:</label>
-            <input type="email" id="contact-email" placeholder="none@none.com" required>
+            <p>
+            <label class="standard-label" for="user-name">Name:</label>
+            <input type="text" name="user-name" id="user-name" placeholder="First Name" required>
+            </p>
+            <p>
+            <label class="standard-label" for="user-email">E-mail:</label>
+            <input type="email" id="contact-email" placeholder="Enter Email" required>
+            </p>
+            <p>
+            <label class="standard-label" for="user-phone">Telephone:</label>
+            <input type="tel" id="user-phone" pattern="\d{3}[\-]\d{3}[\-]\d{4}" placeholder="000-000-0000">
+            </p>
+            <p>
+            <label class="standard-label" for="user-message">Message:</label>
+            <textarea maxlength="240" id="user-message" placeholder="Write Message Here..." required></textarea>
+            </p>
 
-
-            <label class="standard-label" for="contact-telephone">Telephone:</label>
-            <input type="tel" id="contact-telephone" pattern="\d{3}[\-]\d{3}[\-]\d{4}" placeholder="000-000-0000">
-
-
-            <label class="standard-label" for="contact-message">Message:</label>
-            <textarea maxlength="240" id="contact-message" placeholder="Write Message Here..." required></textarea>
-
-
-            <input type="submit" value="Send message">
+            <input type="submit" class="button2" value="Send message">
         </form>
 
     </main>
