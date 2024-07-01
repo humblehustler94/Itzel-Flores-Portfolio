@@ -1,0 +1,6 @@
+For my portfolio, I used the following code linters for my portfolio.
+
+HTMLHint & Stylelint. also used validator.w3.org to check code quality.
+
+I had have to errors show up maybe you can better guide me if there actual errors or not?
+I have enclosed an image of the following errors in the folder section of files.

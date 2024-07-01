@@ -1,0 +1,5 @@
+I tested on browserling for 3 mins everything seemed to work fine. 
+
+the link in the course for cross browser testing didn't connect to an active webpage. nor did the other link saucy something.
+tried to do my testing with browserstack but that only lasted a minute.
+
