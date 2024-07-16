@@ -1,0 +1,7 @@
+I took screenshots of the code quality for all the pages and across all of
+them the info error was present. Is there a way to fix that?
+
+Also noticed that site 000webhost it will no longer be free after august 12th 2024. So that may need to get
+fixed when others take this course and come to this part.
+
+anyways love to hear some feedback thank you and have a great day! 
