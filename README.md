@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/network)
 [![GitHub issues](https://img.shields.io/github/issues/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/issues)
+<!--
 [![GitHub license](https://img.shields.io/github/license/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](LICENSE) <!-- TODO: Add a LICENSE file and update link -->
 
 **A dynamic and responsive personal portfolio showcasing web development projects, skills, and professional experience.**
@@ -131,7 +132,7 @@ We welcome suggestions and improvements! If you have ideas for enhancing the por
 4.  **Push to the branch:** `git push origin feature/AmazingFeature`
 5.  **Open a Pull Request.**
 
-<!-->
+<!--
 ## 📄 License
 
 This project is open source and available under an unspecified license. <!-- TODO: Choose and add a LICENSE file (e.g., MIT, Apache 2.0) -->
