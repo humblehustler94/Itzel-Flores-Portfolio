@@ -7,11 +7,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/network)
 [![GitHub issues](https://img.shields.io/github/issues/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](https://github.com/humblehustler94/Itzel-Flores-Portfolio/issues)
+<!--
 [![GitHub license](https://img.shields.io/github/license/humblehustler94/Itzel-Flores-Portfolio?style=for-the-badge)](LICENSE) <!-- TODO: Add a LICENSE file and update link -->
 
 **A dynamic and responsive personal portfolio showcasing web development projects, skills, and professional experience.**
 
-[Live Demo](https://github.com/humblehustler94/Itzel-Flores-Portfolio/deployments/github-pages) <!-- TODO: Verify GitHub Pages URL or add external demo link -->
+[Live Demo](https://humblehustler94.github.io/Itzel-Flores-Portfolio/) <!-- TODO: Verify GitHub Pages URL or add external demo link -->
 
 </div>
 
