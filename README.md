@@ -131,7 +131,7 @@ We welcome suggestions and improvements! If you have ideas for enhancing the por
 4.  **Push to the branch:** `git push origin feature/AmazingFeature`
 5.  **Open a Pull Request.**
 
-<!-->
+<!--
 ## 📄 License
 
 This project is open source and available under an unspecified license. <!-- TODO: Choose and add a LICENSE file (e.g., MIT, Apache 2.0) -->
