@@ -11,7 +11,7 @@
 
 **A dynamic and responsive personal portfolio showcasing web development projects, skills, and professional experience.**
 
-[Live Demo](https://humblehustler94.github.io/Itzel-Flores-Portfolio/) <!-- TODO: Verify GitHub Pages URL or add external demo link -->
+[Live Demo](https://github.com/humblehustler94/Itzel-Flores-Portfolio/deployments/github-pages) <!-- TODO: Verify GitHub Pages URL or add external demo link -->
 
 </div>
 
