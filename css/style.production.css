@@ -384,6 +384,22 @@ span {
     }
 }
 
+/* Style for project detail pages like pokedex.html */
+.project-details {
+  max-width: 800px;
+  margin: 0 auto; /* Centers the container */
+  padding: 0 20px;
+  text-align: left; /* Keeps text readable */
+}
+
+.project-details img {
+  max-width: 100%; /* Ensures image fits the screen */
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+
 .cloud-back {
     -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
             animation: 34s cloud-move-reverse infinite alternate linear;
