@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat App Project - Itzel Flores</title>
+    <link rel="shortcut icon" href="img/cactus.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.production.css">
+</head>
+
+<body>
+    <!-- HEADER -->
+    <header class="page-header">
+        <img src="img/Itzel_Flores_Logo.png" alt="logo" class="page-header__item">
+        <nav class="main-naviagation page-header__item">
+            <ul role="menubar" class="navigation-list">
+                <li role="presentation">
+                    <a href="index.html" role="menuitem" class="navigation-list__item">Home</a>
+                </li>
+                <li role="presentation">
+                    <a href="about.html" role="menuitem" class="navigation-list__item">About</a>
+                </li>
+                <li role="presentation">
+                    <a href="work.html" role="menuitem"
+                        class="navigation-list__item navigation-list__item--active">Work</a>
+                </li>
+                <li role="presentation">
+                    <a href="contact.html" role="menuitem" class="navigation-list__item">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <section class="project-details">
+        <h1>Chat App (React Native)</h1>
+
+        <div class="project-image-wrapper">
+            <!-- IMPORTANT: Replace this logo with a GIF or a high-quality screenshot of the app running on a phone -->
+            <img src="img/ChatApp-start-screen.png" alt="Chat App Interface" class="project-image__item">
+        </div>
+
+
+        <div class="project-content">
+            <h2>Overview</h2>
+            <p>
+                This is a native mobile chat application built for both iOS and Android using React Native.
+                It provides users with a real-time chat interface where they can exchange text messages, share images,
+                and send their current location.
+            </p>
+
+            <h2>Objective</h2>
+            <p>
+                The primary goal was to gain experience in mobile development with React Native. Key challenges included
+                managing state in a mobile environment, connecting to a real-time database (Google Firestore), and
+                accessing native device features like the camera and location services.
+            </p>
+
+            <h2>Tech Stack</h2>
+            <ul>
+                <li><strong>React Native:</strong> JavaScript framework for building native mobile apps.</li>
+                <li><strong>Expo:</strong> A toolchain built around React Native to simplify development.</li>
+                <li><strong>Google Firestore:</strong> A NoSQL cloud database for real-time data storage and
+                    synchronization.</li>
+                <li><strong>Gifted Chat:</strong> A library for creating the chat UI.</li>
+                <li><strong>Device APIs:</strong> Accessing the device's camera, image library, and location services.
+                </li>
+            </ul>
+
+            <h2>Key Features</h2>
+            <ul>
+                <li><strong>Real-time Messaging:</strong> Messages appear instantly for all users in a chat room.</li>
+                <li><strong>Image Sharing:</strong> Users can send images from their phone's library or take a new
+                    photo.</li>
+                <li><strong>Location Sharing:</strong> Users can send a map view of their current location.</li>
+                <li><strong>Offline Support:</strong> Messages are stored locally and sent when the user reconnects.
+                </li>
+            </ul>
+
+            <div class="project-links">
+                <h2>Links</h2>
+                <!-- Since there's no live demo, a video is the best alternative -->
+                <!-- <a href="" target="_blank">Watch Demo Video</a> <!-- TODO: Replace '#' with your YouTube/Loom link -->
+                <br>
+                <a href="https://github.com/humblehustler94/ChatApp" target="_blank">View Code on GitHub</a>
+            </div>
+
+            <br><br>
+            <a href="work.html" class="back-link">← Back to Work</a>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+        <p>Find me on</p>
+        <div class="social-media">
+            <a href="https://github.com/humblehustler94" target="_blank">
+                <img src="img/211904_social_github_icon.png" alt="Github">
+            </a>
+            <a href="https://www.linkedin.com/in/itzel-flores-70b6781b9/" target="_blank">
+                <img src="img/104493_linkedin_icon.png" alt="LinkedIn">
+            </a>
+        </div>
+    </footer>
+    <script src="js/tota11y.min.js"></script>
+</body>
+
+</html>
